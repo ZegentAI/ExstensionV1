@@ -17,3 +17,6 @@ build/
 *.pem
 *.key
 *.cert
+# Logs
+*.log
+logs/
