@@ -1,11 +1,20 @@
 <p align="center">
-  <img src="assets/zegent-logo.png" alt="Zegent Logo" width="200"/>
+  <img src="zegent-logo.png" alt="Zegent Logo" width="128"/>
 </p>
 
 <h1 align="center">Zegent - Your AI-Powered Web3 Companion</h1>
 
 <p align="center">
   <strong>🎉 We're Going Open Source! 🎉</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ZegentAI/ExstensionV1/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+  <a href="https://github.com/ZegentAI/ExstensionV1/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+  </a>
 </p>
 
 <p align="center">
@@ -51,60 +60,30 @@ We believe that the best tools for Web3 should be built in the open, by the comm
 
 1. Clone the repository:
 
-## 🌟 Features
-
-### 🤖 Trading Analysis Agent
-- Real-time technical analysis of charts
-- Buy/sell signals with confidence ratings
-- Support/resistance level identification
-- Risk assessment and position sizing recommendations
-
-### 🔍 Smart Contract Analysis Agent
-- Automated contract code review
-- Security vulnerability detection
-- Token metrics analysis
-- Scam detection patterns
-- Tokenomics assessment
-
-### 🐦 Social Sentiment Agent
-- Twitter sentiment analysis
-- Community engagement metrics
-- Trend detection
-- Social impact assessment
-- Volume/mention correlation
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js ≥ 14.0.0
-- Chrome browser
-- Claude API key
-- Etherscan API key
-
-### Installation
-
-1. Clone the repository:
-
 bash
-git clone https://github.com/ZegentAI/zegent.git
-cd zegent
+git clone https://github.com/ZegentAI/ExstensionV1.git
+cd ExstensionV1
 
 2. Install dependencies:
+
 bash
 npm install
 
 3. Configure environment variables:
+
 bash
 cp .env.example .env
 Edit .env with your API keys
 
 
 4. Start the server:
+
 bash
 npm run dev
 
 
 5. Load in Chrome:
+
 - Navigate to `chrome://extensions/`
 - Enable "Developer mode"
 - Click "Load unpacked"
@@ -132,8 +111,6 @@ npm run dev
 
 ## 📖 Documentation
 
-- [User Guide](docs/USER_GUIDE.md)
-- [API Reference](docs/API.md)
 - [Contributing](CONTRIBUTING.md)
 
 ## 🤝 Contributing
@@ -161,19 +138,20 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 This tool is for educational purposes only. Cryptocurrency trading carries significant risks. Always conduct your own research and never invest more than you can afford to lose.
 
+## 📧 Support & Community
+
+- Report [Issues](https://github.com/ZegentAI/ExstensionV1/issues)
+- Follow on [Twitter](https://twitter.com/ZegentAI)
+- Visit our [Website](https://zegent.app)
+
 ## 🙏 Acknowledgments
 
-- [Claude AI](https://www.anthropic.com/claude) - Powering our analysis agents
-- [Etherscan](https://etherscan.io/) - Blockchain data provider
-- [Tailwind CSS](https://tailwindcss.com/) - UI framework
+- [Claude AI](https://anthropic.com/claude) - Powering our analysis agents
+- [Etherscan](https://etherscan.io) - Blockchain data provider
 
-## 📧 Support
-
-- Create an [Issue](https://github.com/yourusername/zegent/issues)
-- Join our [Discord](your-discord-link)
-- Follow on [Twitter](your-twitter-link)
 
 ---
 <p align="center">
-  Made with ❤️ by the Zegent Development Team
+  Made with ❤️ by the Zegent Team
 </p>
+
