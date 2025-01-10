@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zegent - AI Multi-Agent Web3 Friend</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-gray-900 text-gray-200 w-96 p-4">
+    <header class="mb-6">
+        <h1 class="text-3xl font-bold text-white-400">Zegent</h1>
+        <p class="text-sm text-gray-400">AI Multi-Agent Web3 Friend</p>
+    </header>
+
+    <div class="mb-6">
+        <input type="text" id="tokenAddress" placeholder="Enter token address" class="w-full bg-gray-800 border border-gray-700 rounded-lg px-4 py-3 focus:outline-none focus:border-green-500 transition duration-300">
+    </div>
+
+    <div class="mb-6">
+        <div class="flex space-x-2 bg-gray-800 p-1 rounded-lg">
+            <button class="agent-tab flex-1 py-2 px-4 rounded-md text-center transition-colors duration-200" data-agent="trader">Trader</button>
+            <button class="agent-tab flex-1 py-2 px-4 rounded-md text-center transition-colors duration-200" data-agent="etherscan">Etherscan</button>
+            <button class="agent-tab flex-1 py-2 px-4 rounded-md text-center transition-colors duration-200" data-agent="twitter">Twitter</button>
+        </div>
+    </div>
+
+    <div id="agentContent" class="mb-6">
+        <div class="agent-content" id="traderAgent">
+            <h3>Trader Agent</h3>
+            <p class="help-text">
+                Navigate to your chart. Click analyze, agent will provide a buy/sell rating.
+            </p>
+            <button id="analyzeButton" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-4 rounded-lg mb-2 transition duration-300 transform hover:scale-105">
+                Analyze with Trader Agent
+            </button>
+        </div>
+        <div class="agent-content hidden" id="etherscanAgent">
+            <h3>Etherscan Agent</h3>
+            <p class="help-text">
+                Enter a token address and get detailed contract analysis.
+            </p>
+            <button id="fetchEtherscanData" class="bg-green-800 hover:bg-green-900 text-white font-bold py-2 px-4 rounded" title="This feature is not yet implemented">
+                Fetch Smart wallets Data (Coming Soon)
+            </button>
+            <button id="analyzeContractButton" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-4 rounded-lg mb-2 transition duration-300 transform hover:scale-105">
+                Analyze Contract
+            </button>
+        </div>
+        <div class="agent-content hidden" id="twitterAgent">
+            <h3>Twitter Agent</h3>
+            <p class="help-text">
+                Navigate to Twitter page, and click "Scrape Twitter" to analyze recent tweets.
+            </p>
+            <button id="scrapeTwitterButton" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-4 rounded-lg mb-2 transition duration-300 transform hover:scale-105">
+                Scrape Twitter Data
+            </button>
+        </div>
+    </div>
+
+    <div id="status" class="text-sm text-gray-400 italic mb-4 min-h-[1.5rem]"></div>
+
+    <div id="result" class="bg-gray-800 p-6 rounded-lg text-sm hidden overflow-auto max-h-64"></div>
+
+    <div id="loadingSpinner" class="hidden flex justify-center items-center my-4">
+        <div class="animate-spin rounded-full h-10 w-10 border-b-2 border-green-500"></div>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

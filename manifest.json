@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Zegent",
+  "version": "1.2",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://localhost:3000/",
+    "https://twitter.com/*",
+    "https://x.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; connect-src http://localhost:3000"
+  }
+}

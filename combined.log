@@ -1,0 +1,999 @@
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-07-31T09:01:22.142Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T09:02:27.105Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T09:02:27.106Z"}
+{"level":"info","message":"Calling Claude API...","timestamp":"2024-07-31T09:02:27.106Z"}
+{"level":"info","message":"Claude API response received","timestamp":"2024-07-31T09:02:35.276Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T09:17:28.239Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T09:17:28.240Z"}
+{"level":"info","message":"Calling Claude API...","timestamp":"2024-07-31T09:17:28.240Z"}
+{"level":"info","message":"Claude API response received","timestamp":"2024-07-31T09:17:36.990Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T10:06:55.902Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T10:06:55.902Z"}
+{"level":"info","message":"Calling Claude API...","timestamp":"2024-07-31T10:06:55.902Z"}
+{"level":"info","message":"Claude API response received","timestamp":"2024-07-31T10:07:05.314Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T10:09:45.450Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T10:09:45.450Z"}
+{"level":"info","message":"Calling Claude API...","timestamp":"2024-07-31T10:09:45.450Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T10:09:51.105Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T10:09:51.106Z"}
+{"level":"info","message":"Calling Claude API...","timestamp":"2024-07-31T10:09:51.106Z"}
+{"level":"info","message":"Claude API response received","timestamp":"2024-07-31T10:09:55.504Z"}
+{"level":"info","message":"Claude API response received","timestamp":"2024-07-31T10:10:01.526Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T10:10:03.250Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T10:10:03.250Z"}
+{"level":"info","message":"Calling Claude API...","timestamp":"2024-07-31T10:10:03.250Z"}
+{"level":"info","message":"Claude API response received","timestamp":"2024-07-31T10:10:13.035Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T10:11:23.587Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T10:11:23.588Z"}
+{"level":"info","message":"Calling Claude API...","timestamp":"2024-07-31T10:11:23.588Z"}
+{"level":"info","message":"Claude API response received","timestamp":"2024-07-31T10:11:33.200Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-07-31T20:09:38.388Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-07-31T20:27:56.920Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T20:36:26.272Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T20:36:26.272Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-07-31T20:36:26.272Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}","stack":"Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:52:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:91:18","timestamp":"2024-07-31T20:36:27.430Z"}
+{"level":"error","message":"Server Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}","stack":"Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:52:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:91:18","timestamp":"2024-07-31T20:36:27.431Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T20:43:18.469Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T20:43:18.469Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-07-31T20:43:18.470Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}","stack":"Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:52:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:91:18","timestamp":"2024-07-31T20:43:19.733Z"}
+{"level":"error","message":"Server Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}","stack":"Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:52:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:91:18","timestamp":"2024-07-31T20:43:19.733Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T20:43:37.227Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T20:43:37.227Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-07-31T20:43:37.227Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}","stack":"Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:52:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:91:18","timestamp":"2024-07-31T20:43:38.368Z"}
+{"level":"error","message":"Server Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}","stack":"Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:52:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:91:18","timestamp":"2024-07-31T20:43:38.368Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-07-31T20:43:46.103Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T20:44:24.384Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T20:44:24.384Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-07-31T20:44:24.384Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}","stack":"Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:52:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:91:18","timestamp":"2024-07-31T20:44:25.946Z"}
+{"level":"error","message":"Server Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}","stack":"Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:52:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:91:18","timestamp":"2024-07-31T20:44:25.947Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T20:44:49.405Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T20:44:49.406Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-07-31T20:44:49.406Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}","stack":"Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:52:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:91:18","timestamp":"2024-07-31T20:44:50.852Z"}
+{"level":"error","message":"Server Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}","stack":"Error: Claude API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:52:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTestingV1.01.08.24/server.js:91:18","timestamp":"2024-07-31T20:44:50.853Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-07-31T20:53:56.055Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T20:54:33.923Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T20:54:33.924Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-07-31T20:54:33.924Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-07-31T20:54:42.456Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-07-31T20:55:30.253Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-07-31T20:55:30.253Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-07-31T20:55:30.253Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-07-31T20:55:40.763Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-07-31T21:13:05.871Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T07:20:59.942Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-08-01T08:26:33.444Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-08-01T08:26:33.446Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-08-01T08:26:33.447Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-08-01T08:26:50.956Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T12:43:09.520Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-08-01T12:43:52.387Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-08-01T12:43:52.388Z"}
+{"level":"info","message":"Screenshot saved: 0x986df267Bb88A0a0be06DD4a1052E1BdEC1a6172_2024-08-01T12-43-52.389Z.png","timestamp":"2024-08-01T12:43:52.396Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-08-01T12:43:52.396Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-08-01T12:44:00.535Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-08-01T12:50:02.708Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-08-01T12:50:02.708Z"}
+{"level":"info","message":"Screenshot saved: 0xf2c5780e2DDA407781c0C5ECCC9320D5988eA0A6_2024-08-01T12-50-02.709Z.png","timestamp":"2024-08-01T12:50:02.710Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-08-01T12:50:02.711Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-08-01T12:50:12.109Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-08-01T12:54:08.052Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-08-01T12:54:08.052Z"}
+{"level":"info","message":"Screenshot saved: 0xf2c5780e2DDA407781c0C5ECCC9320D5988eA0A6_2024-08-01T12-54-08.052Z.png","timestamp":"2024-08-01T12:54:08.054Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-08-01T12:54:08.055Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-08-01T12:54:16.418Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T14:18:57.152Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T14:59:47.528Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T14:59:55.883Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:00:01.004Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:00:25.860Z"}
+{"level":"error","message":"Error fetching token info from Etherscan: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:158:23","timestamp":"2024-08-01T15:01:52.491Z"}
+{"level":"error","message":"Error fetching token info: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:158:23","timestamp":"2024-08-01T15:01:52.492Z"}
+{"level":"error","message":"Error fetching token holders from Etherscan: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:169:26","timestamp":"2024-08-01T15:01:52.526Z"}
+{"level":"error","message":"Error fetching token holders: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:169:26","timestamp":"2024-08-01T15:01:52.527Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:16:18.369Z"}
+{"level":"info","message":"Fetching token info for address: 0x30303101104100C397C069E0642ACaC518420205","timestamp":"2024-08-01T15:16:45.635Z"}
+{"level":"info","message":"Fetching token holders for address: 0x30303101104100C397C069E0642ACaC518420205","timestamp":"2024-08-01T15:16:45.691Z"}
+{"level":"info","message":"Fetching latest transactions for address: 0x30303101104100C397C069E0642ACaC518420205, limit: 5","timestamp":"2024-08-01T15:16:45.695Z"}
+{"level":"error","message":"Error fetching token holders from Etherscan: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:26","timestamp":"2024-08-01T15:16:51.861Z"}
+{"level":"error","message":"Error fetching token holders: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:26","timestamp":"2024-08-01T15:16:51.862Z"}
+{"level":"error","message":"Error fetching token info from Etherscan: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:159:23","timestamp":"2024-08-01T15:16:51.883Z"}
+{"level":"error","message":"Error fetching token info: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:159:23","timestamp":"2024-08-01T15:16:51.883Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:19:24.211Z"}
+{"level":"info","message":"Fetching token info for address: 0x30303101104100C397C069E0642ACaC518420205","timestamp":"2024-08-01T15:19:50.698Z"}
+{"level":"info","message":"Fetching token holders for address: 0x30303101104100C397C069E0642ACaC518420205","timestamp":"2024-08-01T15:19:50.737Z"}
+{"level":"info","message":"Fetching latest transactions for address: 0x30303101104100C397C069E0642ACaC518420205, limit: 5","timestamp":"2024-08-01T15:19:50.742Z"}
+{"level":"error","message":"Error fetching token info from Etherscan: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:159:23","timestamp":"2024-08-01T15:19:51.581Z"}
+{"level":"error","message":"Error fetching token info: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:159:23","timestamp":"2024-08-01T15:19:51.582Z"}
+{"level":"error","message":"Error fetching token holders from Etherscan: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:26","timestamp":"2024-08-01T15:19:51.599Z"}
+{"level":"error","message":"Error fetching token holders: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:26","timestamp":"2024-08-01T15:19:51.600Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:23:26.140Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:30:58.316Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:31:11.523Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:31:57.790Z"}
+{"level":"info","message":"Fetching token info for address: 0x30303101104100C397C069E0642ACaC518420205","timestamp":"2024-08-01T15:32:12.833Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=token&action=tokeninfo&contractaddress=0x30303101104100C397C069E0642ACaC518420205&apikey=API_KEY","timestamp":"2024-08-01T15:32:12.835Z"}
+{"level":"info","message":"Fetching token holders for address: 0x30303101104100C397C069E0642ACaC518420205","timestamp":"2024-08-01T15:32:12.890Z"}
+{"level":"info","message":"Fetching latest transactions for address: 0x30303101104100C397C069E0642ACaC518420205, limit: 5","timestamp":"2024-08-01T15:32:12.893Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=token&action=tokenholderlist&contractaddress=0x30303101104100C397C069E0642ACaC518420205&apikey=API_KEY","timestamp":"2024-08-01T15:32:13.036Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x30303101104100C397C069E0642ACaC518420205&sort=desc&limit=5&apikey=API_KEY","timestamp":"2024-08-01T15:32:13.039Z"}
+{"level":"error","message":"Etherscan API error: {\"status\":\"0\",\"message\":\"NOTOK\",\"result\":\"Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro.\"}","timestamp":"2024-08-01T15:32:19.199Z"}
+{"level":"error","message":"Error fetching token info for address 0x30303101104100C397C069E0642ACaC518420205: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:51:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:23","timestamp":"2024-08-01T15:32:19.200Z"}
+{"level":"error","message":"Error fetching token info: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:51:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:23","timestamp":"2024-08-01T15:32:19.200Z"}
+{"level":"error","message":"Etherscan API error: {\"status\":\"0\",\"message\":\"NOTOK\",\"result\":\"Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro.\"}","timestamp":"2024-08-01T15:32:19.230Z"}
+{"level":"error","message":"Error fetching token holders for address 0x30303101104100C397C069E0642ACaC518420205: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:64:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:190:26","timestamp":"2024-08-01T15:32:19.230Z"}
+{"level":"error","message":"Error fetching token holders: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:64:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:190:26","timestamp":"2024-08-01T15:32:19.230Z"}
+{"level":"info","message":"Successful Etherscan API response for tokentx","timestamp":"2024-08-01T15:32:23.371Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:37:39.722Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:37:55.845Z"}
+{"level":"info","message":"Fetching token info for address: 0x30303101104100C397C069E0642ACaC518420205","timestamp":"2024-08-01T15:38:34.235Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=token&action=tokeninfo&contractaddress=0x30303101104100C397C069E0642ACaC518420205&apikey=API_KEY","timestamp":"2024-08-01T15:38:34.237Z"}
+{"level":"info","message":"Fetching token holders for address: 0x30303101104100C397C069E0642ACaC518420205","timestamp":"2024-08-01T15:38:34.294Z"}
+{"level":"info","message":"Fetching latest transactions for address: 0x30303101104100C397C069E0642ACaC518420205, limit: 5","timestamp":"2024-08-01T15:38:34.297Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=token&action=tokenholderlist&contractaddress=0x30303101104100C397C069E0642ACaC518420205&apikey=API_KEY","timestamp":"2024-08-01T15:38:34.436Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x30303101104100C397C069E0642ACaC518420205&sort=desc&limit=5&apikey=API_KEY","timestamp":"2024-08-01T15:38:34.439Z"}
+{"level":"error","message":"Etherscan API error: {\"status\":\"0\",\"message\":\"NOTOK\",\"result\":\"Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro.\"}","timestamp":"2024-08-01T15:38:35.828Z"}
+{"level":"error","message":"Error fetching token holders for address 0x30303101104100C397C069E0642ACaC518420205: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:77:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:201:26","timestamp":"2024-08-01T15:38:35.828Z"}
+{"level":"error","message":"Error fetching token holders: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:77:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:201:26","timestamp":"2024-08-01T15:38:35.829Z"}
+{"level":"error","message":"Etherscan API error: {\"status\":\"0\",\"message\":\"NOTOK\",\"result\":\"Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro.\"}","timestamp":"2024-08-01T15:38:35.834Z"}
+{"level":"error","message":"Error fetching token info for address 0x30303101104100C397C069E0642ACaC518420205: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:51:24)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:23","timestamp":"2024-08-01T15:38:35.834Z"}
+{"level":"error","message":"Error fetching token info: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:51:24)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:23","timestamp":"2024-08-01T15:38:37.148Z"}
+{"level":"info","message":"Successful Etherscan API response for tokentx","timestamp":"2024-08-01T15:38:39.253Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:41:36.264Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:42:10.514Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:42:57.729Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:42:58.486Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T15:43:14.392Z"}
+{"level":"info","message":"Fetching token info for address: 0x30303101104100C397C069E0642ACaC518420205","timestamp":"2024-08-01T15:44:01.188Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=token&action=tokeninfo&contractaddress=0x30303101104100C397C069E0642ACaC518420205&apikey=API_KEY","timestamp":"2024-08-01T15:44:01.189Z"}
+{"level":"info","message":"Fetching token holders for address: 0x30303101104100C397C069E0642ACaC518420205","timestamp":"2024-08-01T15:44:01.210Z"}
+{"level":"info","message":"Fetching latest transactions for address: 0x30303101104100C397C069E0642ACaC518420205, limit: 5","timestamp":"2024-08-01T15:44:01.211Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=token&action=tokenholderlist&contractaddress=0x30303101104100C397C069E0642ACaC518420205&apikey=API_KEY","timestamp":"2024-08-01T15:44:01.389Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x30303101104100C397C069E0642ACaC518420205&sort=desc&limit=5&apikey=API_KEY","timestamp":"2024-08-01T15:44:01.391Z"}
+{"level":"error","message":"Etherscan API error: {\"status\":\"0\",\"message\":\"NOTOK\",\"result\":\"Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro.\"}","timestamp":"2024-08-01T15:44:02.160Z"}
+{"level":"error","message":"Error fetching token holders for address 0x30303101104100C397C069E0642ACaC518420205: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:89:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:207:26","timestamp":"2024-08-01T15:44:02.161Z"}
+{"level":"error","message":"Error fetching token holders: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:89:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:207:26","timestamp":"2024-08-01T15:44:02.161Z"}
+{"level":"error","message":"Etherscan API error: {\"status\":\"0\",\"message\":\"NOTOK\",\"result\":\"Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro.\"}","timestamp":"2024-08-01T15:44:02.168Z"}
+{"level":"error","message":"Error fetching token info for address 0x30303101104100C397C069E0642ACaC518420205: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:51:24)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:23","timestamp":"2024-08-01T15:44:02.168Z"}
+{"level":"error","message":"Error fetching token info: Unable to fetch token information for address: 0x30303101104100C397C069E0642ACaC518420205. The contract exists but may not be a standard ERC-20 token.","stack":"Error: Unable to fetch token information for address: 0x30303101104100C397C069E0642ACaC518420205. The contract exists but may not be a standard ERC-20 token.\n    at getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:81:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:23","timestamp":"2024-08-01T15:44:06.111Z"}
+{"level":"info","message":"Successful Etherscan API response for tokentx","timestamp":"2024-08-01T15:44:06.791Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-08-01T15:44:33.977Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-08-01T15:44:33.977Z"}
+{"level":"info","message":"Screenshot saved: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637_2024-08-01T15-44-33.977Z.png","timestamp":"2024-08-01T15:44:33.980Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-08-01T15:44:33.980Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-08-01T15:44:42.131Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-08-01T15:44:59.460Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-08-01T15:44:59.461Z"}
+{"level":"info","message":"Screenshot saved: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637_2024-08-01T15-44-59.461Z.png","timestamp":"2024-08-01T15:44:59.463Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-08-01T15:44:59.463Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-08-01T15:45:09.366Z"}
+{"level":"info","message":"Fetching token info for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637","timestamp":"2024-08-01T15:46:45.578Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=token&action=tokeninfo&contractaddress=0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637&apikey=API_KEY","timestamp":"2024-08-01T15:46:45.579Z"}
+{"level":"info","message":"Fetching token holders for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637","timestamp":"2024-08-01T15:46:45.580Z"}
+{"level":"info","message":"Fetching latest transactions for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637, limit: 5","timestamp":"2024-08-01T15:46:45.582Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=token&action=tokenholderlist&contractaddress=0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637&apikey=API_KEY","timestamp":"2024-08-01T15:46:45.779Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637&sort=desc&limit=5&apikey=API_KEY","timestamp":"2024-08-01T15:46:45.781Z"}
+{"level":"error","message":"Etherscan API error: {\"status\":\"0\",\"message\":\"NOTOK\",\"result\":\"Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro.\"}","timestamp":"2024-08-01T15:46:46.366Z"}
+{"level":"error","message":"Error fetching token holders for address 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:89:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:207:26","timestamp":"2024-08-01T15:46:46.367Z"}
+{"level":"error","message":"Error fetching token holders: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:89:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:207:26","timestamp":"2024-08-01T15:46:46.367Z"}
+{"level":"error","message":"Etherscan API error: {\"status\":\"0\",\"message\":\"NOTOK\",\"result\":\"Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro.\"}","timestamp":"2024-08-01T15:46:46.436Z"}
+{"level":"error","message":"Error fetching token info for address 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:51:24)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:23","timestamp":"2024-08-01T15:46:46.436Z"}
+{"level":"error","message":"Error fetching token info: Unable to fetch token information for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637. The contract exists but may not be a standard ERC-20 token.","stack":"Error: Unable to fetch token information for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637. The contract exists but may not be a standard ERC-20 token.\n    at getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:81:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:23","timestamp":"2024-08-01T15:46:47.870Z"}
+{"level":"info","message":"Successful Etherscan API response for tokentx","timestamp":"2024-08-01T15:46:49.046Z"}
+{"level":"info","message":"Fetching token info for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637","timestamp":"2024-08-01T15:47:58.431Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=token&action=tokeninfo&contractaddress=0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637&apikey=API_KEY","timestamp":"2024-08-01T15:47:58.432Z"}
+{"level":"info","message":"Fetching token holders for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637","timestamp":"2024-08-01T15:47:58.438Z"}
+{"level":"info","message":"Fetching latest transactions for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637, limit: 5","timestamp":"2024-08-01T15:47:58.439Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=token&action=tokenholderlist&contractaddress=0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637&apikey=API_KEY","timestamp":"2024-08-01T15:47:58.632Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637&sort=desc&limit=5&apikey=API_KEY","timestamp":"2024-08-01T15:47:58.634Z"}
+{"level":"error","message":"Etherscan API error: {\"status\":\"0\",\"message\":\"NOTOK\",\"result\":\"Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro.\"}","timestamp":"2024-08-01T15:47:59.208Z"}
+{"level":"error","message":"Error fetching token holders for address 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:89:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:207:26","timestamp":"2024-08-01T15:47:59.208Z"}
+{"level":"error","message":"Error fetching token holders: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenHolders (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:89:16)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:207:26","timestamp":"2024-08-01T15:47:59.208Z"}
+{"level":"error","message":"Etherscan API error: {\"status\":\"0\",\"message\":\"NOTOK\",\"result\":\"Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro.\"}","timestamp":"2024-08-01T15:47:59.216Z"}
+{"level":"error","message":"Error fetching token info for address 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637: Etherscan API error: NOTOK","stack":"Error: Etherscan API error: NOTOK\n    at makeEtherscanRequest (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:42:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:51:24)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:23","timestamp":"2024-08-01T15:47:59.216Z"}
+{"level":"error","message":"Error fetching token info: Unable to fetch token information for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637. The contract exists but may not be a standard ERC-20 token.","stack":"Error: Unable to fetch token information for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637. The contract exists but may not be a standard ERC-20 token.\n    at getTokenInfo (file:///home/raivo/ZEEuserTesting1.1.01.08.24/etherscanService.js:81:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.1.01.08.24/server.js:171:23","timestamp":"2024-08-01T15:48:00.776Z"}
+{"level":"info","message":"Successful Etherscan API response for tokentx","timestamp":"2024-08-01T15:48:02.166Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T16:05:02.339Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T16:05:53.290Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T16:06:11.301Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T16:06:20.391Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T16:06:26.908Z"}
+{"level":"info","message":"Fetching token info for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637","timestamp":"2024-08-01T16:07:09.357Z"}
+{"level":"info","message":"Fetching token holders for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637","timestamp":"2024-08-01T16:07:09.408Z"}
+{"level":"info","message":"Fetching latest transactions for address: 0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637, limit: 5","timestamp":"2024-08-01T16:07:09.419Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637&sort=desc&limit=5&apikey=API_KEY","timestamp":"2024-08-01T16:07:09.420Z"}
+{"level":"info","message":"Successful Etherscan API response for tokentx","timestamp":"2024-08-01T16:07:12.985Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-01T16:28:50.526Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-26T12:21:27.949Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-03T14:03:48.114Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T12:12:48.197Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T12:14:05.730Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-09-04T12:14:05.731Z"}
+{"level":"info","message":"Screenshot saved: 0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf_2024-09-04T12-14-05.731Z.png","timestamp":"2024-09-04T12:14:05.735Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T12:14:05.736Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T12:14:13.535Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T12:43:32.688Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T12:48:25.399Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T12:49:11.780Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-09-04T12:49:11.780Z"}
+{"level":"info","message":"Screenshot saved: 0xCb76314C2540199f4B844D4ebbC7998C604880cA_2024-09-04T12-49-11.781Z.png","timestamp":"2024-09-04T12:49:11.785Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T12:49:11.786Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T12:49:19.714Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T12:55:18.413Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:02:08.594Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:09:08.397Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T13:09:32.941Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-09-04T13:09:32.941Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T13:09:32.941Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T13:09:40.096Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T13:10:13.222Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-09-04T13:10:13.222Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T13:10:13.223Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T13:10:20.534Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:19:26.648Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T13:20:12.358Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-09-04T13:20:12.358Z"}
+{"level":"info","message":"Screenshot saved: 0xCb76314C2540199f4B844D4ebbC7998C604880cA_2024-09-04T13-20-12.358Z.png","timestamp":"2024-09-04T13:20:12.360Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T13:20:12.360Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T13:20:20.430Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:22:15.427Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:30:33.833Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:35:01.794Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:36:13.738Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:42:31.522Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T13:43:10.898Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-09-04T13:43:10.898Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T13:43:10.899Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T13:43:18.877Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:46:26.110Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T13:46:40.210Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-09-04T13:46:40.210Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T13:46:40.210Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T13:46:48.836Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T13:47:45.479Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-09-04T13:47:45.480Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T13:47:45.480Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T13:48:04.086Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:50:38.320Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:55:48.147Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:56:57.338Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T13:58:46.423Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T13:59:03.482Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-09-04T13:59:03.483Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T13:59:03.483Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T13:59:20.691Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T13:59:41.018Z"}
+{"level":"info","message":"Using default knowledge base","timestamp":"2024-09-04T13:59:41.019Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T13:59:41.019Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T13:59:47.390Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T14:24:35.872Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-09-04T14:25:03.765Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-04T14:31:23.286Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T14:31:44.631Z"}
+{"level":"info","message":"Screenshot saved: 0xCb76314C2540199f4B844D4ebbC7998C604880cA_2024-09-04T14-31-44.632Z.png","timestamp":"2024-09-04T14:31:44.634Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T14:31:44.634Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T14:31:53.150Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-04T14:45:01.877Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T14:45:14.503Z"}
+{"level":"info","message":"Screenshot saved: 0xCb76314C2540199f4B844D4ebbC7998C604880cA_2024-09-04T14-45-14.504Z.png","timestamp":"2024-09-04T14:45:14.507Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T14:45:14.508Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T14:45:22.750Z"}
+{"level":"info","message":"Received Twitter analysis request for 0xCb76314C2540199f4B844D4ebbC7998C604880cA","timestamp":"2024-09-04T14:45:35.743Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-04T14:45:35.744Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-04T14:45:41.612Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-04T15:23:28.534Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T15:23:45.019Z"}
+{"level":"info","message":"Screenshot saved: 0xCb76314C2540199f4B844D4ebbC7998C604880cA_2024-09-04T15-23-45.020Z.png","timestamp":"2024-09-04T15:23:45.023Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T15:23:45.023Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T15:23:53.421Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T15:24:30.247Z"}
+{"level":"info","message":"Screenshot saved: 0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf_2024-09-04T15-24-30.247Z.png","timestamp":"2024-09-04T15:24:30.249Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T15:24:30.250Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T15:24:37.855Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-04T15:26:03.448Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-04T15:26:27.790Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-04T15:26:36.277Z"}
+{"level":"info","message":"Screenshot saved: 0x41D06390b935356b46aD6750bdA30148Ad2044A4_2024-09-04T15-26-36.278Z.png","timestamp":"2024-09-04T15:26:36.282Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-04T15:26:36.283Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-04T15:26:44.136Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T06:45:48.726Z"}
+{"level":"info","message":"Received Twitter analysis request for 0xd3cc3b3e226cf187181c57f8bcc2fa84250df651","timestamp":"2024-09-05T06:46:43.947Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T06:46:43.948Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-05T06:46:50.804Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T06:49:25.252Z"}
+{"level":"info","message":"Received Twitter analysis request for 0xd3cc3b3e226cf187181c57f8bcc2fa84250df651","timestamp":"2024-09-05T06:49:51.389Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T06:49:51.391Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-05T06:49:57.859Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T06:51:53.721Z"}
+{"level":"info","message":"Received Twitter analysis request for 0xd3cc3b3e226cf187181c57f8bcc2fa84250df651","timestamp":"2024-09-05T06:52:14.309Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T06:52:14.311Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-05T06:52:19.822Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T06:56:15.692Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T07:01:36.149Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T07:03:07.275Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-05T07:03:21.500Z"}
+{"level":"info","message":"Screenshot saved: 0x41D06390b935356b46aD6750bdA30148Ad2044A4_2024-09-05T07-03-21.500Z.png","timestamp":"2024-09-05T07:03:21.504Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-05T07:03:21.505Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-05T07:03:30.612Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T07:09:56.966Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-05T07:10:14.207Z"}
+{"level":"info","message":"Screenshot saved: 0x41D06390b935356b46aD6750bdA30148Ad2044A4_2024-09-05T07-10-14.208Z.png","timestamp":"2024-09-05T07:10:14.211Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-05T07:10:14.212Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-05T07:10:23.913Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-05T07:10:31.469Z"}
+{"level":"info","message":"Screenshot saved: 0x41D06390b935356b46aD6750bdA30148Ad2044A4_2024-09-05T07-10-31.470Z.png","timestamp":"2024-09-05T07:10:31.473Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-05T07:10:31.473Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-05T07:10:43.211Z"}
+{"level":"info","message":"Received Twitter analysis request for 0xd3cc3b3e226cf187181c57f8bcc2fa84250df651","timestamp":"2024-09-05T07:11:03.275Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T07:11:03.275Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-05T07:11:08.982Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-05T07:27:21.692Z"}
+{"level":"info","message":"Screenshot saved: 0x6dB6FDb5182053EECeC778aFec95E0814172A474_2024-09-05T07-27-21.692Z.png","timestamp":"2024-09-05T07:27:21.695Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-05T07:27:21.695Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-05T07:27:34.692Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T07:42:20.243Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T07:43:49.419Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T07:46:02.792Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T08:03:57.874Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T08:05:08.541Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T08:07:16.620Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-05T08:07:27.431Z"}
+{"level":"info","message":"Screenshot saved: 0x6dB6FDb5182053EECeC778aFec95E0814172A474_2024-09-05T08-07-27.431Z.png","timestamp":"2024-09-05T08:07:27.434Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-05T08:07:27.435Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-05T08:07:36.979Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T14:06:26.485Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T14:07:48.035Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-05T14:08:24.639Z"}
+{"level":"info","message":"Screenshot saved: 0x41D06390b935356b46aD6750bdA30148Ad2044A4_2024-09-05T14-08-24.639Z.png","timestamp":"2024-09-05T14:08:24.642Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-05T14:08:24.642Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-05T14:08:33.023Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T14:12:01.688Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T14:30:47.122Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T14:31:12.816Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-05T14:31:21.702Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T14:34:04.889Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-05T14:34:13.612Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T15:37:54.104Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T15:38:59.137Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-05T15:39:07.834Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T15:58:54.242Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x6dB6FDb5182053EECeC778aFec95E0814172A474&apikey=API_KEY","timestamp":"2024-09-05T15:59:23.017Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-05T15:59:24.355Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-05T15:59:24.356Z"}
+{"level":"error","message":"Etherscan Contract Analysis Error: contractAnalystPrompt is not defined","stack":"ReferenceError: contractAnalystPrompt is not defined\n    at file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:293:46\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-09-05T15:59:24.356Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T16:00:57.871Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-05T16:01:06.699Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T16:03:52.961Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-05T16:04:00.940Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x3566c8ee9780245e974e759a7716ea6ba0702588&apikey=API_KEY","timestamp":"2024-09-05T16:04:42.899Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-05T16:04:44.189Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-05T16:04:44.189Z"}
+{"level":"error","message":"Etherscan Contract Analysis Error: contractAnalystPrompt is not defined","stack":"ReferenceError: contractAnalystPrompt is not defined\n    at file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:293:46\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-09-05T16:04:44.190Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x3566c8ee9780245e974e759a7716ea6ba0702588&apikey=API_KEY","timestamp":"2024-09-05T16:05:06.979Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-05T16:05:07.770Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-05T16:05:07.770Z"}
+{"level":"error","message":"Etherscan Contract Analysis Error: contractAnalystPrompt is not defined","stack":"ReferenceError: contractAnalystPrompt is not defined\n    at file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:293:46\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-09-05T16:05:07.770Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T16:13:43.841Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x6dB6FDb5182053EECeC778aFec95E0814172A474&apikey=API_KEY","timestamp":"2024-09-05T16:13:59.483Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-05T16:14:00.426Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-05T16:14:00.427Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-05T16:14:14.792Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T16:16:25.914Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-05T16:16:32.712Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T16:18:43.553Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:80:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:227:30","timestamp":"2024-09-05T16:18:44.162Z"}
+{"level":"error","message":"Twitter Analysis Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:80:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:227:30","timestamp":"2024-09-05T16:18:44.162Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-05T16:18:54.196Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:80:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:227:30","timestamp":"2024-09-05T16:18:54.966Z"}
+{"level":"error","message":"Twitter Analysis Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:80:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:227:30","timestamp":"2024-09-05T16:18:54.966Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-05T16:44:54.722Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-05T16:45:06.437Z"}
+{"level":"info","message":"Screenshot saved: 0x6dB6FDb5182053EECeC778aFec95E0814172A474_2024-09-05T16-45-06.438Z.png","timestamp":"2024-09-05T16:45:06.441Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-05T16:45:06.441Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:80:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:128:18","timestamp":"2024-09-05T16:45:08.117Z"}
+{"level":"error","message":"Server Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:80:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready/server.js:128:18","timestamp":"2024-09-05T16:45:08.118Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T07:58:08.306Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-06T08:01:59.493Z"}
+{"level":"info","message":"Screenshot saved: 0x41D06390b935356b46aD6750bdA30148Ad2044A4_2024-09-06T08-01-59.493Z.png","timestamp":"2024-09-06T08:01:59.495Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-06T08:01:59.496Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-06T08:02:07.290Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T08:03:10.412Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T08:03:18.290Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x41D06390b935356b46aD6750bdA30148Ad2044A4&apikey=API_KEY","timestamp":"2024-09-06T08:04:00.058Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-06T08:04:01.588Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-06T08:04:01.589Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-06T08:04:14.824Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T13:10:29.605Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T13:14:46.251Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T13:14:54.485Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T13:17:06.616Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x41D06390b935356b46aD6750bdA30148Ad2044A4&apikey=API_KEY","timestamp":"2024-09-06T13:35:26.879Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-06T13:35:28.057Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-06T13:35:28.058Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-06T13:35:41.514Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x41D06390b935356b46aD6750bdA30148Ad2044A4&apikey=API_KEY","timestamp":"2024-09-06T13:37:48.682Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-06T13:37:49.702Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-06T13:37:49.702Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-06T13:38:03.528Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x41D06390b935356b46aD6750bdA30148Ad2044A4&apikey=API_KEY","timestamp":"2024-09-06T13:42:58.664Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-06T13:42:59.558Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-06T13:42:59.558Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-06T13:43:13.761Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xc0CfBe1602dD586349f60e4681bf4BADCA584eC9&apikey=API_KEY","timestamp":"2024-09-06T13:44:18.491Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-06T13:44:19.244Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-06T13:44:19.244Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-06T13:44:34.979Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf&apikey=API_KEY","timestamp":"2024-09-06T13:47:06.169Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-06T13:47:07.803Z"}
+{"level":"warn","message":"No source code found for address 0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf","timestamp":"2024-09-06T13:47:07.803Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf&apikey=API_KEY","timestamp":"2024-09-06T13:47:11.712Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-06T13:47:12.312Z"}
+{"level":"warn","message":"No source code found for address 0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf","timestamp":"2024-09-06T13:47:12.312Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xb714E20A546Ad23d297D333b769495067360Dc65&apikey=API_KEY","timestamp":"2024-09-06T13:47:25.996Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-06T13:47:27.063Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-06T13:47:27.063Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-06T13:47:50.887Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x1c0b635b5a0a438eec808a4dd35092f104d9a07e&apikey=API_KEY","timestamp":"2024-09-06T13:56:20.327Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-06T13:56:21.260Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-06T13:56:21.260Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-06T13:56:34.658Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T13:58:21.070Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T13:58:28.571Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T14:23:18.638Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T14:24:05.126Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T14:24:12.074Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T14:24:52.254Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T14:25:00.882Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T15:09:11.435Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T15:12:47.092Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T15:12:54.608Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T15:18:50.657Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T15:20:30.868Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T15:21:16.868Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T15:22:02.819Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T15:22:02.862Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T15:22:12.483Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T15:22:12.729Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T15:24:26.825Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T15:28:05.379Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T15:35:33.434Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T15:42:40.002Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T15:46:47.953Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T16:06:21.034Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T16:08:02.073Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T16:10:50.876Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T16:17:07.393Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T16:18:07.508Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T16:18:48.050Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T16:18:55.969Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T16:19:52.901Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T16:20:01.078Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T16:34:36.621Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T16:36:24.182Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T16:36:58.410Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T16:37:56.154Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T16:38:03.818Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T16:49:23.881Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T18:35:51.287Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T18:36:29.856Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T18:36:38.339Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T18:38:24.661Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T18:38:52.261Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T18:39:00.056Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T18:43:10.169Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T18:44:05.204Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T18:44:27.504Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T18:44:37.125Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T18:46:47.729Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T18:46:55.748Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T18:51:40.717Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T18:52:36.184Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T18:52:44.011Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T18:56:23.689Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T19:01:15.381Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T20:00:34.699Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T20:02:16.890Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T20:03:52.239Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-06T20:04:25.748Z"}
+{"level":"info","message":"Screenshot saved: 0x878aee00f14323250eB3a1289A58012951E89428_2024-09-06T20-04-25.748Z.png","timestamp":"2024-09-06T20:04:25.751Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-06T20:04:25.751Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-06T20:04:35.127Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T20:06:34.378Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T20:07:07.946Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T20:07:17.686Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T20:09:03.715Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T20:09:41.173Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T20:09:49.227Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T20:17:36.297Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T20:24:05.273Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T20:24:14.933Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T20:24:21.240Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T20:24:27.923Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-06T20:33:51.683Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-06T20:33:59.659Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T20:40:05.877Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-06T20:40:18.428Z"}
+{"level":"info","message":"Screenshot saved: 0x878aee00f14323250eB3a1289A58012951E89428_2024-09-06T20-40-18.428Z.png","timestamp":"2024-09-06T20:40:18.431Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-06T20:40:18.431Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-06T20:40:27.400Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-06T20:40:59.652Z"}
+{"level":"info","message":"Screenshot saved: 0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf_2024-09-06T20-40-59.653Z.png","timestamp":"2024-09-06T20:40:59.655Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-06T20:40:59.655Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-06T20:41:07.890Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-06T20:41:42.059Z"}
+{"level":"info","message":"Screenshot saved: 0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a_2024-09-06T20-41-42.060Z.png","timestamp":"2024-09-06T20:41:42.061Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-06T20:41:42.061Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-06T20:41:49.999Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-06T20:48:35.110Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637&apikey=API_KEY","timestamp":"2024-09-06T20:49:05.540Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-06T20:49:06.949Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-06T20:49:06.950Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-06T20:49:23.378Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-07T08:53:01.873Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-07T08:54:53.710Z"}
+{"level":"info","message":"Screenshot saved: 0xCb76314C2540199f4B844D4ebbC7998C604880cA_2024-09-07T08-54-53.710Z.png","timestamp":"2024-09-07T08:54:53.715Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-07T08:54:53.716Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-07T08:55:14.307Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-07T08:57:05.060Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-07T08:57:12.037Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-07T08:58:22.687Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-07T08:58:49.669Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-07T08:58:58.120Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-07T09:06:15.206Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-07T09:06:45.438Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-07T09:06:53.793Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-07T09:10:07.585Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-07T09:10:42.956Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-07T09:10:51.919Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-07T09:13:29.226Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T15:39:04.072Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T16:26:22.711Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T16:27:09.185Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T16:28:09.990Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-08T16:28:46.860Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-08T16:28:57.087Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T16:45:48.365Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-08T16:47:22.849Z"}
+{"level":"info","message":"Screenshot saved: Berry_2024-09-08T16-47-22.850Z.png","timestamp":"2024-09-08T16:47:22.855Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-08T16:47:22.856Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-08T16:47:30.799Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T16:51:06.260Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-08T16:51:28.204Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-08T16:51:36.552Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-08T16:52:28.589Z"}
+{"level":"info","message":"Screenshot saved: bbl_2024-09-08T16-52-28.590Z.png","timestamp":"2024-09-08T16:52:28.592Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-08T16:52:28.592Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-08T16:52:34.711Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T17:02:55.011Z"}
+{"level":"error","message":"DexScreener Analysis Error: Cannot read properties of undefined (reading 'symbol')","stack":"TypeError: Cannot read properties of undefined (reading 'symbol')\n    at file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20(copy)/server.js:384:35\n    at Layer.handle [as handle_request] (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/layer.js:95:5)\n    at /home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/index.js:280:10)\n    at rateLimiter (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20(copy)/server.js:88:5)\n    at Layer.handle [as handle_request] (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/layer.js:95:5)","timestamp":"2024-09-08T17:03:13.363Z"}
+{"level":"error","message":"DexScreener Analysis Error: Cannot read properties of undefined (reading 'symbol')","stack":"TypeError: Cannot read properties of undefined (reading 'symbol')\n    at file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20(copy)/server.js:384:35\n    at Layer.handle [as handle_request] (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/layer.js:95:5)\n    at /home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/index.js:280:10)\n    at rateLimiter (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20(copy)/server.js:88:5)\n    at Layer.handle [as handle_request] (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/layer.js:95:5)","timestamp":"2024-09-08T17:03:14.511Z"}
+{"level":"error","message":"DexScreener Analysis Error: Cannot read properties of undefined (reading 'symbol')","stack":"TypeError: Cannot read properties of undefined (reading 'symbol')\n    at file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20(copy)/server.js:384:35\n    at Layer.handle [as handle_request] (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/layer.js:95:5)\n    at /home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/index.js:280:10)\n    at rateLimiter (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20(copy)/server.js:88:5)\n    at Layer.handle [as handle_request] (/home/raivo/ZEEuserTesting1.2.01.08.24 Twitter agent ready All agents ready (copy)/node_modules/express/lib/router/layer.js:95:5)","timestamp":"2024-09-08T17:03:14.958Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T17:06:26.365Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-08T17:06:38.080Z"}
+{"level":"info","message":"Screenshot saved: berry_2024-09-08T17-06-38.081Z.png","timestamp":"2024-09-08T17:06:38.087Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-08T17:06:38.088Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-08T17:06:45.309Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T17:11:28.042Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T17:25:01.451Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T17:28:49.969Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-08T17:31:15.126Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-08T17:31:23.258Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T18:26:06.717Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-08T18:26:52.954Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-08T18:27:01.012Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-08T18:43:11.205Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-08T18:43:19.339Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-08T18:44:49.300Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-08T18:44:57.180Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T18:59:19.899Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-08T18:59:36.001Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-08T18:59:43.034Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-08T18:59:48.694Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-08T18:59:55.717Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-08T19:00:00.901Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-08T19:00:07.722Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-08T19:18:11.812Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-08T19:19:22.631Z"}
+{"level":"info","message":"Screenshot saved: 0xCb76314C2540199f4B844D4ebbC7998C604880cA_2024-09-08T19-19-22.632Z.png","timestamp":"2024-09-08T19:19:22.636Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-08T19:19:22.637Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-08T19:19:29.718Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xCb76314C2540199f4B844D4ebbC7998C604880cA&apikey=API_KEY","timestamp":"2024-09-08T19:20:19.649Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-08T19:20:21.179Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-08T19:20:21.179Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-08T19:20:34.121Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xCb76314C2540199f4B844D4ebbC7998C604880cA&apikey=API_KEY","timestamp":"2024-09-08T19:20:34.125Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-08T19:20:34.822Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-08T19:20:34.822Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-08T19:20:46.658Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T07:18:34.394Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T07:19:13.903Z"}
+{"level":"info","message":"Screenshot saved: 0x986df267Bb88A0a0be06DD4a1052E1BdEC1a6172_2024-09-09T07-19-13.903Z.png","timestamp":"2024-09-09T07:19:13.908Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T07:19:13.909Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T07:19:22.085Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T07:20:37.886Z"}
+{"level":"info","message":"Screenshot saved: 0x41D06390b935356b46aD6750bdA30148Ad2044A4_2024-09-09T07-20-37.887Z.png","timestamp":"2024-09-09T07:20:37.889Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T07:20:37.890Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T07:20:44.682Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T07:27:32.333Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T07:27:42.406Z"}
+{"level":"info","message":"Screenshot saved: 0x41D06390b935356b46aD6750bdA30148Ad2044A4_2024-09-09T07-27-42.406Z.png","timestamp":"2024-09-09T07:27:42.411Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T07:27:42.412Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T07:27:49.315Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T07:28:34.169Z"}
+{"level":"info","message":"Screenshot saved: 0xed1aecC815C00073bA6707B1cD4Bd7F833dA7a38_2024-09-09T07-28-34.169Z.png","timestamp":"2024-09-09T07:28:34.171Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T07:28:34.172Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T07:28:40.607Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T07:30:25.380Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T07:30:39.964Z"}
+{"level":"info","message":"Screenshot saved: 0xed1aecC815C00073bA6707B1cD4Bd7F833dA7a38_2024-09-09T07-30-39.964Z.png","timestamp":"2024-09-09T07:30:39.967Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T07:30:39.967Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T07:30:47.411Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T07:40:14.334Z"}
+{"level":"info","message":"Screenshot saved: 0xF14035855B14bd4c68056Dc984322b4F562bb8d5_2024-09-09T07-40-14.335Z.png","timestamp":"2024-09-09T07:40:14.337Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T07:40:14.337Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T07:40:20.885Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T07:40:29.100Z"}
+{"level":"info","message":"Screenshot saved: 0xF14035855B14bd4c68056Dc984322b4F562bb8d5_2024-09-09T07-40-29.100Z.png","timestamp":"2024-09-09T07:40:29.102Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T07:40:29.102Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T07:40:36.781Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T08:13:01.952Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xF14035855B14bd4c68056Dc984322b4F562bb8d5&apikey=API_KEY","timestamp":"2024-09-09T08:13:13.528Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:13:14.891Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:13:14.892Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:13:31.807Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T08:18:23.113Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xF14035855B14bd4c68056Dc984322b4F562bb8d5&apikey=API_KEY","timestamp":"2024-09-09T08:18:33.995Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:18:35.719Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:18:35.719Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:18:53.474Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T08:27:49.208Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xF14035855B14bd4c68056Dc984322b4F562bb8d5&apikey=API_KEY","timestamp":"2024-09-09T08:28:01.589Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:28:02.767Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:28:02.768Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:28:19.132Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T08:30:58.582Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xF14035855B14bd4c68056Dc984322b4F562bb8d5&apikey=API_KEY","timestamp":"2024-09-09T08:31:09.382Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:31:10.187Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:31:10.188Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:31:27.384Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T08:35:13.054Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xF14035855B14bd4c68056Dc984322b4F562bb8d5&apikey=API_KEY","timestamp":"2024-09-09T08:35:27.111Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:35:27.995Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:35:27.995Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:35:42.655Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T08:43:54.161Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xF14035855B14bd4c68056Dc984322b4F562bb8d5&apikey=API_KEY","timestamp":"2024-09-09T08:44:04.537Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:44:05.537Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:44:05.538Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:44:18.656Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T08:47:52.634Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xF14035855B14bd4c68056Dc984322b4F562bb8d5&apikey=API_KEY","timestamp":"2024-09-09T08:48:04.780Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:48:05.778Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:48:05.778Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:48:23.499Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T08:50:23.934Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x74a96dbc82a2c3cf77c09a14418ca66b663f8a06&apikey=API_KEY","timestamp":"2024-09-09T08:50:45.964Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:50:47.326Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:50:47.327Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:51:02.480Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x86d1956B76d9ea4a8faE33206Ea9293c84D36C50&apikey=API_KEY","timestamp":"2024-09-09T08:54:55.210Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:54:56.098Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:54:56.098Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:55:11.789Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x86d1956B76d9ea4a8faE33206Ea9293c84D36C50&apikey=API_KEY","timestamp":"2024-09-09T08:56:15.268Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:56:16.520Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:56:16.520Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:56:32.374Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T08:57:29.840Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xcb76314c2540199f4b844d4ebbc7998c604880ca&apikey=API_KEY","timestamp":"2024-09-09T08:57:36.689Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:57:37.509Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:57:37.510Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:57:53.497Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x41d06390b935356b46ad6750bda30148ad2044a4&apikey=API_KEY","timestamp":"2024-09-09T08:58:27.437Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T08:58:28.488Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T08:58:28.489Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T08:58:46.008Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T09:06:08.899Z"}
+{"level":"info","message":"Screenshot saved: 0x41d06390b935356b46ad6750bda30148ad2044a4_2024-09-09T09-06-08.900Z.png","timestamp":"2024-09-09T09:06:08.903Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T09:06:08.903Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T09:06:15.642Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T09:10:15.555Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T09:10:27.864Z"}
+{"level":"info","message":"Screenshot saved: 0x41D06390b935356b46aD6750bdA30148Ad2044A4_2024-09-09T09-10-27.865Z.png","timestamp":"2024-09-09T09:10:27.869Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T09:10:27.870Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T09:10:34.621Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T09:11:42.434Z"}
+{"level":"info","message":"Screenshot saved: 0x79874E049A65c330b23f99cf09dd93E58B1f46aD_2024-09-09T09-11-42.434Z.png","timestamp":"2024-09-09T09:11:42.436Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T09:11:42.436Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T09:11:49.534Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-09T09:12:19.818Z"}
+{"level":"info","message":"Screenshot saved: 0x79874E049A65c330b23f99cf09dd93E58B1f46aD_2024-09-09T09-12-19.818Z.png","timestamp":"2024-09-09T09:12:19.821Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-09T09:12:19.821Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-09T09:12:26.258Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T09:22:50.216Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x010571d2B5e7a3cE82C3dDc9e7648b889CD8aBf2&apikey=API_KEY","timestamp":"2024-09-09T09:22:58.336Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T09:22:59.140Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T09:22:59.140Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T09:23:12.587Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T09:24:07.374Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x12DcE655C38E6c286F95C3C6df1D6996227948D5&apikey=API_KEY","timestamp":"2024-09-09T09:49:57.514Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T09:49:59.029Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T09:49:59.029Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T09:50:13.912Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x0cACda84269566418567BB8aa68773D184753a71&apikey=API_KEY","timestamp":"2024-09-09T11:14:31.104Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:14:32.351Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:14:32.352Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:14:47.755Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x6982508145454Ce325dDbE47a25d4ec3d2311933&apikey=API_KEY","timestamp":"2024-09-09T11:26:19.844Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:26:20.863Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:26:20.863Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:26:35.067Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T11:29:14.026Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xFA68e905Daf8B837E4D0D44Ab38f656b4A05fa25&apikey=API_KEY","timestamp":"2024-09-09T11:29:21.266Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:29:22.556Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:29:22.557Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:29:37.915Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x75e8041BEA104568202808F6727615D662fabe19&apikey=API_KEY","timestamp":"2024-09-09T11:31:00.069Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:31:00.665Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:31:00.665Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:31:18.201Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x8E2D189a48D7eCC54d037719Bc0B1Dd7BE71d41b&apikey=API_KEY","timestamp":"2024-09-09T11:31:51.886Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:31:53.131Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:31:53.132Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:32:09.962Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T11:32:36.623Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x7901029bD39a5281cca1a0BA096C4c4C9696af62&apikey=API_KEY","timestamp":"2024-09-09T11:33:05.577Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:33:06.731Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:33:06.731Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:33:22.191Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T11:33:53.876Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x60b0dad2d7d65b7d6efc0b746687020ccef0a233&apikey=API_KEY","timestamp":"2024-09-09T11:34:08.030Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:34:09.120Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:34:09.120Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:34:37.043Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x010571d2B5e7a3cE82C3dDc9e7648b889CD8aBf2&apikey=API_KEY","timestamp":"2024-09-09T11:41:00.928Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:41:01.881Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:41:01.882Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:41:16.576Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xae5b2aa98532c0c27c88f2085d66b5263f4b9fee&apikey=API_KEY","timestamp":"2024-09-09T11:41:57.186Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:41:57.763Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:41:57.763Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:42:13.409Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T11:43:55.414Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x8869b0b5573698b23b501b1537ff58aba4b7a022&apikey=API_KEY","timestamp":"2024-09-09T11:47:45.062Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:47:46.575Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:47:46.575Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:48:01.772Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xfa45c879fd120d6cc493113ae212a853531f3d91&apikey=API_KEY","timestamp":"2024-09-09T11:48:46.624Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:48:47.645Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:48:47.645Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:49:16.091Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T11:51:08.004Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xa43fe16908251ee70ef74718545e4fe6c5ccec9f&apikey=API_KEY","timestamp":"2024-09-09T11:51:20.016Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:51:21.274Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:51:21.274Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:51:36.982Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T11:52:15.990Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x6982508145454Ce325dDbE47a25d4ec3d2311933&apikey=API_KEY","timestamp":"2024-09-09T11:52:29.846Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:52:30.656Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:52:30.656Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:52:44.654Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x21E5c85a5B1f38bdDDE68307Af77e38f747Cd530&apikey=API_KEY","timestamp":"2024-09-09T11:53:17.385Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:53:18.337Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:53:18.338Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:53:31.933Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x41D06390b935356b46aD6750bdA30148Ad2044A4&apikey=API_KEY","timestamp":"2024-09-09T11:54:20.551Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:54:21.227Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:54:21.228Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:54:43.328Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T11:58:08.367Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf&apikey=API_KEY","timestamp":"2024-09-09T11:58:46.067Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:58:47.674Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:58:47.674Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:59:00.221Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x8869b0b5573698b23b501b1537ff58aba4b7a022&apikey=API_KEY","timestamp":"2024-09-09T11:59:35.926Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T11:59:36.909Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T11:59:36.909Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T11:59:51.591Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:16:06.329Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf&apikey=API_KEY","timestamp":"2024-09-09T12:16:37.882Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:16:38.816Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:16:38.816Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:16:53.382Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xE5100413FeCf305F652c98A157a1754d89654e1f&apikey=API_KEY","timestamp":"2024-09-09T12:17:16.237Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:17:16.924Z"}
+{"level":"warn","message":"No source code found for address 0xE5100413FeCf305F652c98A157a1754d89654e1f","timestamp":"2024-09-09T12:17:16.924Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x1e504A125eA25dc605f30229e689e0131f934F75&apikey=API_KEY","timestamp":"2024-09-09T12:17:34.284Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:17:35.327Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:17:35.327Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:17:48.827Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:21:02.056Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:23:37.500Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x1E53f9E602726AD545662216698321F6c9731885&apikey=API_KEY","timestamp":"2024-09-09T12:24:08.575Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:24:09.554Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:24:09.554Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:24:28.783Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x35534B065a80B2214C2A8B7Efa7E8b86858Aa1b6&apikey=API_KEY","timestamp":"2024-09-09T12:25:43.411Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:25:43.968Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:25:43.969Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:25:58.929Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:27:55.211Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:28:34.926Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x36DE5Bf29d0491320bd41DbbF5FFbCc7aD4946eA&apikey=API_KEY","timestamp":"2024-09-09T12:28:46.533Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:28:47.784Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:28:47.785Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:29:02.139Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x41d06390b935356b46ad6750bda30148ad2044a4&apikey=API_KEY","timestamp":"2024-09-09T12:30:12.963Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:30:14.228Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:30:14.229Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:30:32.166Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:31:41.775Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xcf16287a869ac8397815aba9b8c962c0f18ba6ea&apikey=API_KEY","timestamp":"2024-09-09T12:31:59.034Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:31:59.988Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:31:59.988Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:32:14.887Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:35:51.001Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a&apikey=API_KEY","timestamp":"2024-09-09T12:36:01.209Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:36:02.074Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:36:02.075Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:36:18.350Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x048d07bd350ba516b84587e147284881b593eb86&apikey=API_KEY","timestamp":"2024-09-09T12:36:51.931Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:36:52.575Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:36:52.575Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:37:11.537Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x3914bdb4130306f80f5d8ee099c180442d19680d&apikey=API_KEY","timestamp":"2024-09-09T12:37:47.857Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:37:48.737Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:37:48.737Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:38:07.206Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:38:40.161Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xae5b2aa98532c0c27c88f2085d66b5263f4b9fee&apikey=API_KEY","timestamp":"2024-09-09T12:38:46.980Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:38:47.921Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:38:47.921Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:329:26","timestamp":"2024-09-09T12:38:48.825Z"}
+{"level":"error","message":"Etherscan Contract Analysis Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:329:26","timestamp":"2024-09-09T12:38:48.825Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xae5b2aa98532c0c27c88f2085d66b5263f4b9fee&apikey=API_KEY","timestamp":"2024-09-09T12:38:51.964Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:38:52.845Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:38:52.846Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:329:26","timestamp":"2024-09-09T12:38:53.396Z"}
+{"level":"error","message":"Etherscan Contract Analysis Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:329:26","timestamp":"2024-09-09T12:38:53.397Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xae5b2aa98532c0c27c88f2085d66b5263f4b9fee&apikey=API_KEY","timestamp":"2024-09-09T12:39:03.580Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:39:04.391Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:39:04.391Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:329:26","timestamp":"2024-09-09T12:39:05.310Z"}
+{"level":"error","message":"Etherscan Contract Analysis Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}","stack":"Error: Claude API error: 400 - {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:329:26","timestamp":"2024-09-09T12:39:05.310Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:46:57.413Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xcb76314c2540199f4b844d4ebbc7998c604880ca&apikey=API_KEY","timestamp":"2024-09-09T12:47:11.359Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:47:12.800Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:47:12.800Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:47:29.367Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x41d06390b935356b46ad6750bda30148ad2044a4&apikey=API_KEY","timestamp":"2024-09-09T12:47:44.494Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:47:45.136Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:47:45.136Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:48:04.342Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xdcfb7BAEbF4dDEb0f72354D2701C00737439830E&apikey=API_KEY","timestamp":"2024-09-09T12:49:24.955Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:49:26.118Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:49:26.119Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:49:41.583Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:50:33.400Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xdcfb7BAEbF4dDEb0f72354D2701C00737439830E&apikey=API_KEY","timestamp":"2024-09-09T12:50:40.887Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:50:41.736Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:50:41.736Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-09T12:50:58.359Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:52:52.661Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xdcfb7BAEbF4dDEb0f72354D2701C00737439830E&apikey=API_KEY","timestamp":"2024-09-09T12:52:59.103Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:53:00.259Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:53:00.259Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}","stack":"Error: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:329:26","timestamp":"2024-09-09T12:53:01.085Z"}
+{"level":"error","message":"Etherscan Contract Analysis Error: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}","stack":"Error: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:329:26","timestamp":"2024-09-09T12:53:01.085Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:53:23.015Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xdcfb7BAEbF4dDEb0f72354D2701C00737439830E&apikey=API_KEY","timestamp":"2024-09-09T12:53:31.078Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:53:31.968Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:53:31.969Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}","stack":"Error: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:329:26","timestamp":"2024-09-09T12:53:32.637Z"}
+{"level":"error","message":"Etherscan Contract Analysis Error: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}","stack":"Error: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:329:26","timestamp":"2024-09-09T12:53:32.638Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:55:37.758Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xdcfb7BAEbF4dDEb0f72354D2701C00737439830E&apikey=API_KEY","timestamp":"2024-09-09T12:55:57.552Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:55:58.459Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:55:58.459Z"}
+{"level":"warn","message":"Rate limit hit. Retrying after 2763 seconds.","timestamp":"2024-09-09T12:55:59.775Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-09T12:57:26.245Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a&apikey=API_KEY","timestamp":"2024-09-09T12:57:36.268Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-09T12:57:37.081Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-09T12:57:37.081Z"}
+{"level":"error","message":"Error calling Claude API: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}","stack":"Error: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:345:26","timestamp":"2024-09-09T12:57:37.723Z"}
+{"level":"error","message":"Etherscan Contract Analysis Error: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}","stack":"Error: Claude API error: 429 - {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}\n    at callClaudeAPI (file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:132:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/raivo/ZEEuserTesting1.2.01.08.24%20Twitter%20agent%20ready%20All%20agents%20ready%20auditor%20ready/server.js:345:26","timestamp":"2024-09-09T12:57:37.724Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-12T19:57:21.365Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-12T19:58:28.774Z"}
+{"level":"info","message":"Screenshot saved: 0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8_2024-09-12T19-58-28.774Z.png","timestamp":"2024-09-12T19:58:28.778Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-12T19:58:28.779Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-12T19:58:36.929Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8&apikey=API_KEY","timestamp":"2024-09-12T19:58:58.184Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-12T19:59:05.825Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-12T19:59:05.825Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-12T19:59:20.169Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-12T20:00:24.328Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-12T20:00:32.339Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-12T20:01:57.542Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-12T20:02:07.544Z"}
+{"level":"info","message":"Screenshot saved: 0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8_2024-09-12T20-02-07.544Z.png","timestamp":"2024-09-12T20:02:07.547Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-12T20:02:07.547Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-12T20:02:16.215Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-12T20:02:18.980Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-12T20:02:34.569Z"}
+{"level":"info","message":"Screenshot saved: 0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8_2024-09-12T20-02-34.570Z.png","timestamp":"2024-09-12T20:02:34.572Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-12T20:02:34.573Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-12T20:02:43.642Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-12T20:03:21.959Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-12T20:03:45.472Z"}
+{"level":"info","message":"Screenshot saved: 0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8_2024-09-12T20-03-45.472Z.png","timestamp":"2024-09-12T20:03:45.475Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-12T20:03:45.476Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-12T20:03:54.419Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8&apikey=API_KEY","timestamp":"2024-09-12T20:04:00.695Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-12T20:04:01.838Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-12T20:04:01.838Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-12T20:04:16.647Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-12T20:04:56.891Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-12T20:05:05.324Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-12T20:06:40.077Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-12T20:07:07.904Z"}
+{"level":"info","message":"Screenshot saved: 0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8_2024-09-12T20-07-07.905Z.png","timestamp":"2024-09-12T20:07:07.907Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-12T20:07:07.908Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-12T20:07:16.404Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8&apikey=API_KEY","timestamp":"2024-09-12T20:07:27.568Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-12T20:07:28.850Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-12T20:07:28.850Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-12T20:07:42.442Z"}
+{"level":"info","message":"Calling Claude API for Twitter analysis...","timestamp":"2024-09-12T20:08:43.523Z"}
+{"level":"info","message":"Claude API response received for Twitter analysis","timestamp":"2024-09-12T20:08:50.896Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-13T13:09:38.790Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-13T13:39:10.761Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-13T13:44:51.939Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8&apikey=API_KEY","timestamp":"2024-09-13T13:46:13.944Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-13T13:46:15.618Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-13T13:46:15.619Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-13T13:46:44.821Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-13T13:47:16.524Z"}
+{"level":"info","message":"Screenshot saved: 0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8_2024-09-13T13-47-16.524Z.png","timestamp":"2024-09-13T13:47:16.527Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-13T13:47:16.527Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-13T13:47:28.417Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-13T13:48:58.497Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-13T13:49:11.449Z"}
+{"level":"info","message":"Screenshot saved: 0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8_2024-09-13T13-49-11.449Z.png","timestamp":"2024-09-13T13:49:11.452Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-13T13:49:11.452Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-13T13:49:30.305Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-13T13:51:04.304Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2024-09-13T13:51:15.913Z"}
+{"level":"info","message":"Screenshot saved: 0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8_2024-09-13T13-51-15.913Z.png","timestamp":"2024-09-13T13:51:15.916Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2024-09-13T13:51:15.916Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2024-09-13T13:51:29.689Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8&apikey=API_KEY","timestamp":"2024-09-13T13:52:04.931Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2024-09-13T13:52:06.143Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2024-09-13T13:52:06.143Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2024-09-13T13:52:36.147Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-13T13:54:44.348Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2024-09-13T13:55:05.357Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2025-01-10T14:36:59.551Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2025-01-10T14:43:45.506Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2025-01-10T15:04:16.409Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xa72b67f84460b689f1a3054549ab926c9ad88a41&apikey=API_KEY","timestamp":"2025-01-10T15:05:49.259Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2025-01-10T15:05:50.595Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2025-01-10T15:05:50.595Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2025-01-10T15:06:14.357Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2025-01-10T15:16:02.340Z"}
+{"level":"info","message":"Received analyze request","timestamp":"2025-01-10T15:16:16.903Z"}
+{"level":"info","message":"Screenshot saved: 0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf_2025-01-10T15-16-16.903Z.png","timestamp":"2025-01-10T15:16:16.905Z"}
+{"level":"info","message":"Calling Claude API for trading analysis...","timestamp":"2025-01-10T15:16:16.905Z"}
+{"level":"info","message":"Claude API response received for trading analysis","timestamp":"2025-01-10T15:16:20.761Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf&apikey=API_KEY","timestamp":"2025-01-10T15:16:21.348Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2025-01-10T15:16:22.704Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2025-01-10T15:16:22.705Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2025-01-10T15:16:38.248Z"}
+{"level":"info","message":"Zegent server running at http://localhost:3000","timestamp":"2025-01-10T16:37:52.474Z"}
+{"level":"info","message":"Making Etherscan API request: https://api.etherscan.io/api?module=contract&action=getsourcecode&address=0x986df267bb88a0a0be06dd4a1052e1bdec1a6172&apikey=API_KEY","timestamp":"2025-01-10T16:38:16.006Z"}
+{"level":"info","message":"Successful Etherscan API response for getsourcecode","timestamp":"2025-01-10T16:38:17.405Z"}
+{"level":"info","message":"Calling Claude API for contract analysis...","timestamp":"2025-01-10T16:38:17.405Z"}
+{"level":"info","message":"Claude API response received for contract analysis","timestamp":"2025-01-10T16:38:31.015Z"}
